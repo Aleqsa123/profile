@@ -32,8 +32,8 @@ and this is a desktop version: ![](./images/desktop-screenshot.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Aleqsa123/profile]
+- Live Site URL: [https://aleqsa123.github.io/profile/]
 
 ## My process
 
