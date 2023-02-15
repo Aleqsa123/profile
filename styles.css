@@ -15,8 +15,8 @@ body {
     background-color: #19A1AE;
     background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
-    background-size: cover, cover;
-    background-position: -43rem -40rem, 18rem 35rem;
+    background-position: right 40vw bottom 60vh, left 45vw top 55vh;
+    background-size: 622px 621px, 622px 621px;
     min-height: 100vh;
     display: grid;
     place-items: center;
@@ -167,7 +167,8 @@ p {
 @media screen and (min-width: 1000px) {
 
     body{
-        background-position: -58rem 140%, 49rem -75%;
+        background-position: right 52vw bottom 35vh, left 49vw top 51vh;
+        background-size: 978px 976px, 978px 976px;
     }
 
 
